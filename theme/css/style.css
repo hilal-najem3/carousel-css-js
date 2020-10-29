@@ -5,6 +5,36 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800');
 @import url('https://fonts.googleapis.com/css?family=Dosis:200,300,400,500,600,700');
 
+/*@font-face {
+  font-family: 'Adlanta';
+  font-style: 'normal';
+  font-weight: '700';
+  src: url('../webfonts/Adlanta/regular/Adlanta.eot');
+  src: url('../webfonts/Adlanta/regular/Adlanta.eot?#iefix') format('embedded-opentype'),
+       url('../webfonts/Adlanta/regular/Adlanta.woff2') format('woff2'),
+       url('../webfonts/Adlanta/regular/Adlanta.woff') format('woff'),
+       url('../webfonts/Adlanta/regular/Adlanta.ttf') format('truetype'),
+       url('../webfonts/Adlanta/regular/Adlanta.svg#Adlanta') format('svg');
+}*/
+
+/*@font-face {
+  font-family: 'Adlanta';
+  font-style: 'normal';
+  font-weight: '700';
+  src: url('../webfonts/Adlanta.otf');
+}*/
+
+/*@font-face {
+  font-family: 'Adlanta-Light';
+  font-style: 'normal';
+  font-weight: '700';
+  src: url('../webfonts/Adlanta/light/Adlanta-Light.eot');
+  src: url('../webfonts/Adlanta/light/Adlanta-Light.woff2') format('woff2'),
+       url('../webfonts/Adlanta/light/Adlanta-Light.woff') format('woff'),
+       url('../webfonts/Adlanta/light/Adlanta-Light.ttf') format('truetype'),
+       url('../webfonts/Adlanta/light/Adlanta-Light.svg') format('svg');
+}*/
+
 
 /*
 
@@ -35,7 +65,8 @@
  body {
      color: #666666;
      font-size: 15px;
-     font-family: 'Dosis', sans-serif;
+     /* font-family: 'Dosis', sans-serif; */
+     font-family: 'Adlanta', 'Dosis', sans-serif;
      line-height: 1.80857;
 }
  a {
